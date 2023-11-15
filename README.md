@@ -1,7 +1,7 @@
 # 🏋️‍♀️GymQuest 📝<!-- omit in toc -->
 
 <p align="center">
-<img src="https://lh6.googleusercontent.com/N5awedbD4pNJdfcsCcmZwBSUIhLXeRMvrZs5-EQyTmI2WqZXfFFe77RinOV8p2LYqB-p8SGpCHNf99XXXxmy3Ly5lDFDDrnTD2I6eNUe9-vLYLs1zl5EpFdwKigLC8Wqo0_4t9HN17TNDEh5SQFhb5w"  width="400" height="300" alt="Image of a workout planner mobile app">
+<img src="[https://lh6.googleusercontent.com/N5awedbD4pNJdfcsCcmZwBSUIhLXeRMvrZs5-EQyTmI2WqZXfFFe77RinOV8p2LYqB-p8SGpCHNf99XXXxmy3Ly5lDFDDrnTD2I6eNUe9-vLYLs1zl5EpFdwKigLC8Wqo0_4t9HN17TNDEh5SQFhb5w"  width="400" height="300" alt="Image of a workout planner mobile app](https://images.pexels.com/photos/2294361/pexels-photo-2294361.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)">
 </p>
 
 
